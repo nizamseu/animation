@@ -2,3 +2,4 @@
 [Video](https://www.youtube.com/watch?v=tBB6iUDvdhQ)
 [Video](https://www.youtube.com/watch?v=L1afzNAhI40)
 [Gsap Context](https://www.youtube.com/watch?v=l0aI8Ecumy8)
+[Gsap ](https://www.youtube.com/playlist?list=PL7UfXm3exlfdY92amsMG4S9QHjadJ0jH5)
